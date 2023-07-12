@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/liveStock-test/static/css/main.6899b3fb.css",
+    "main.js": "/liveStock-test/static/js/main.5cec5731.js",
+    "static/js/787.0851da9d.chunk.js": "/liveStock-test/static/js/787.0851da9d.chunk.js",
+    "index.html": "/liveStock-test/index.html",
+    "main.6899b3fb.css.map": "/liveStock-test/static/css/main.6899b3fb.css.map",
+    "main.5cec5731.js.map": "/liveStock-test/static/js/main.5cec5731.js.map",
+    "787.0851da9d.chunk.js.map": "/liveStock-test/static/js/787.0851da9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6899b3fb.css",
+    "static/js/main.5cec5731.js"
+  ]
+}
